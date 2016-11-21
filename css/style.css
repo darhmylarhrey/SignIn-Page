@@ -1,0 +1,45 @@
+body{
+background:#76b852;	
+}
+ .container-fluid{
+background: white;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+margin-top: 200px;
+margin-left:470px;
+margin-right:470px; 
+}
+#username{
+	width: 300px;
+	height:35px;
+	background:#f2f2f2;
+	border: 0; 
+	padding:10px; 
+}
+#password{
+	width: 300px;
+	height:35px;
+	background:#f2f2f2;
+	border: 0;
+	padding:10px;  
+}
+#btn{
+	width: 317px;
+	height:50px;
+	color: white;
+	background: #00cc44;
+	border: 0;
+	padding:10px;  
+}
+	
+}
+p {
+   font-size: 15px;
+   font-family: arial,sans-serif;
+   color: grey; 	
+}
+a{
+  color: green;
+  font-family: arial,sans-serif;
+}
